@@ -1,3 +1,5 @@
 # Investiment Simulator in Angular 4
 
-   - Angular Components Only
+   - Investment Advisory Services - Angular Components Only
+   
+   - To view -> https://investiments.herokuapp.com/
